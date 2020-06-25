@@ -8,5 +8,5 @@ Each folder on this repo contains a different Deep Learning and Neural Network p
 - Back prop and Hyperparameters
 - Convolutional Neural Network
 - Natural Language Processing
-- LSTM 
+- LSTM and Recurrent Neural Network
 
