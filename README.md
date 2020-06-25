@@ -5,7 +5,7 @@ Each folder on this repo contains a different Deep Learning and Neural Network p
 
 - Perceptrons 
 - Artificial Neural Network
-- Back prop and Hyper
+- Back prop and Hyperparameters
 - Convolutional Neural Network
 
 
