@@ -5,12 +5,10 @@ Each folder on this repo contains a different Deep Learning and Neural Network p
 
 - Perceptrons 
 - Artificial Neural Network
-
- - Neurons
+  - Neurons
   - Weights
-  - Bias
-  - Activation functions
-  
+  - Bias 
+  - Activation functions  
 - Back prop and Hyperparameters
 - Convolutional Neural Network
 - Natural Language Processing
