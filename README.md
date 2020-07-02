@@ -13,4 +13,5 @@ Each folder on this repo contains a different Deep Learning and Neural Network p
 - Convolutional Neural Network
 - Natural Language Processing
 - LSTM and Recurrent Neural Network
+- Generative Adversarial Network 
 
