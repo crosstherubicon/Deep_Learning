@@ -7,7 +7,7 @@ Each folder on this repo contains a different Deep Learning and Neural Network p
 - Artificial Neural Network
   - Neurons
   - Weights
-  - Biases
+  - Bias
   - Activation functions  
 - Back prop and Hyperparameters
 - Convolutional Neural Network
