@@ -1,7 +1,7 @@
 # Deep Learning and Neural Network applications 
 
 
-Each folder on this repo contains different Deep Learning projects. It includes the primmary code, dataset (for most ones or the link to the dataset) and for some results and README.md for instructions..
+Each folder on this repo contains different Deep Learning projects. It includes the primmary code, dataset (for most ones or the link to the dataset) and for some results and README.md for instructions.
 
 - Perceptrons 
 - Artificial Neural Network
