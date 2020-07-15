@@ -10,7 +10,7 @@ Each folder on this repo contains different Deep Learning projects. It includes 
   - Biases
   - Activation functions (most used ones) 
 - Back prop and Hyperparameters
-- Convolutional Neural Network
+- Convolutional Neural Networ
 - Natural Language Processing
 - LSTM and Recurrent Neural Network
 
