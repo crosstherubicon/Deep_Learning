@@ -14,7 +14,7 @@ Each folder on this repo contains different Deep Learning projects. It includes 
 - Natural Language Processing
 - LSTM and Recurrent Neural Network
 
-##### Vanising Gradient Problem
+## Vanising Gradient Problem
 
 Backpropapagation goes backwards from the output to the input layers, propagating the error gradient. For deeper networks issues can arise from backpropagation, vanishing and exploding gradients!
 
