@@ -5,7 +5,7 @@ Each folder on this repo contains different Deep Learning projects. It includes 
 
 - Perceptrons 
 - Artificial Neural Network
-  - Neuron
+  - Neurons
   - Weights
   - Biases
   - Activation functions (most used ones) 
