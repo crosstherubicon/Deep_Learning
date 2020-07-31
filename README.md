@@ -13,3 +13,6 @@ Each folder on this repo contains different Deep Learning projects. It includes 
 - Convolutional Neural Network
 - Natural Language Processing
 - LSTM and Recurrent Neural Network
+
+
+LSTM Word2Vec API: https://radimrehurek.com/gensim/index.html
