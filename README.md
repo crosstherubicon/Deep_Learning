@@ -12,7 +12,7 @@ Each folder on this repo contains different Deep Learning projects. It includes 
 - Back prop and Hyperparameters
 - Convolutional Neural Network
 - Natural Language Processing
-- LSTM and Recurrent Neural Network
+- LSTM and Recurrent Neural Networks
 
 
 LSTM Word2Vec API: https://radimrehurek.com/gensim/index.html
