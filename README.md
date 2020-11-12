@@ -8,7 +8,7 @@ Each folder on this repo contains different Deep Learning projects. It includes 
   - Neurons
   - Weights
   - Biases
-  - Activation functions (most used ones) 
+  - Activation functions
 - Back prop and Hyperparameters
 - Convolutional Neural Network
 - Natural Language Processing
