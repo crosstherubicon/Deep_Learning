@@ -9,6 +9,7 @@ Each folder on this repo contains different Deep Learning projects. It includes 
   - Weights
   - Biases
   - Activation functions
+  
 - Back prop and Hyperparameters
 - Convolutional Neural Network
 - Natural Language Processing
